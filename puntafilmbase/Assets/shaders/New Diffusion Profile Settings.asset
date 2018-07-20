@@ -13,13 +13,13 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   profiles:
   - name: Profile 1
-    scatteringDistance: {r: 18.088835, g: 15.401752, b: 10.153639, a: 1}
+    scatteringDistance: {r: 121.20942, g: 111.89541, b: 61.176453, a: 1}
     transmissionTint: {r: 12.800526, g: 12.800526, b: 12.800526, a: 1}
     texturingMode: 1
     transmissionMode: 0
-    thicknessRemap: {x: 8.196721, y: 47.566597}
-    worldScale: 0.001
-    ior: 1.87
+    thicknessRemap: {x: 0, y: 44.10861}
+    worldScale: 0.1
+    ior: 1.95
     scatterDistance1: {r: 0.3, g: 0.3, b: 0.3, a: 0}
     scatterDistance2: {r: 0.5, g: 0.5, b: 0.5, a: 0}
     lerpWeight: 1
